@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+.header {
+    text-align: center;
+    background-color: lightslategray;
+    height: 60px;
+
+}
+h1 {
+    color: lightgrey;
+}
+p {
+    color: lightgrey;
+}
